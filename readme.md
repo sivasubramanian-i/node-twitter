@@ -1,10 +1,16 @@
-# Building Shopping Cart Web Application using React-Redux
+# Building Twitter Api Integration
 
-This source code is part of Shopping Cart Web Application using React-Redux.
+This source code is part of Node Js Third-Party API Integration.
 
 Configure Twitter Keys:
 
 - Configure `config/config.js`
+
+API Lists:
+
+- Get the number of tweets & Insert into the MongoDB `host_name/tweets/getTweets`
+
+- Get the number of tweets from the particular user `host_name/tweets/getUserTweets`
 
 To run this app:
 
